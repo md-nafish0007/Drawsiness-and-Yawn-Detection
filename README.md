@@ -18,6 +18,7 @@ To install Drowsiness and Yawn Detector System, follow these steps:
 1. Clone the repository: `git clone <repo_url>`
 2. Navigate to the project directory: `cd <project_directory>`
 3. Install the required Python packages: `pip install -r requirements.txt`
+4. To access Pretrained model used (shape_predictor_68_face_landmarks) 'https://drive.google.com/drive/folders/1EW8_nCoj3wUVaMonB6kSzLfbonr62Ulo?usp=drive_link'
 
 ## Using Drowsiness and Yawn Detector System
 
